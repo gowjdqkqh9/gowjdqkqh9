@@ -3,9 +3,7 @@
 
 📧 Email: 
 
-
 📘 Notion: 
-
 
 💻 Portfolio: 
 
