@@ -15,9 +15,12 @@
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 🖥 My GitHub Status
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shape2ee&layout=compact)](https://github.com/Shape2ee/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shape2ee)](https://github.com/Shape2ee/github-readme-stats)
 
 <!---
 gowjdqkqh9/gowjdqkqh9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
