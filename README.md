@@ -20,8 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowjdqkqh9&layout=compact)](https://github.com/Shape2ee/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gowjdqkqh9)](https://github.com/gowjdqkqh9/github-readme-stats)
-
 <!---
 gowjdqkqh9/gowjdqkqh9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 미리보기 링크를 클릭하여 변경 사항을 확인할 수 있습니다.
