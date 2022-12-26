@@ -18,9 +18,7 @@
 # 🖥 My GitHub Status
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shape2ee&layout=compact)](https://github.com/Shape2ee/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shape2ee)](https://github.com/Shape2ee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowjdqkqh9&layout=compact)](https://github.com/Shape2ee/github-readme-stats)
 
 <!---
 gowjdqkqh9/gowjdqkqh9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
