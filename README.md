@@ -1,8 +1,8 @@
 # 👋 Hi there! 
 안녕하세요 웹디자인, 프론트엔드 주니어 개발자 모두 가능한 마해정입니다.
 
-📧 Email: 
-📘 Notion: [노션 바로가기]<https://>
+📧 Email: akgowjd@gamil.com<br>
+📘 Notion: [노션 바로가기]<https://><br>
 💻 Portfolio: [포트폴리오 바로가기]<https://>
 
 <br>
