@@ -2,7 +2,11 @@
 안녕하세요 웹디자인, 프론트엔드 주니어 개발자 모두 가능한 마해정입니다.
 
 📧 Email: 
+
+
 📘 Notion: 
+
+
 💻 Portfolio: 
 
 # 👍: Skills #
@@ -10,8 +14,6 @@ HTML5
 
 
 
--  Hi, I’m @gowjdqkqh9
--  I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
