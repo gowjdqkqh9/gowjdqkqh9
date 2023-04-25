@@ -1,9 +1,13 @@
-# 👋 Hi there! 
-안녕하세요 웹디자인, 프론트엔드 주니어 개발자 모두 가능한 마해정입니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Front-end&fontSize=70&fontAlign=80)
+
+# 👋 Hello 
+안녕하세요 끊임없이 성장하는 **신입 프론트엔드 개발자 마해정**입니다.
+
+<br>
 
 📧 Email: akgowjd@gamil.com<br>
-📘 Notion: [노션 바로가기]<https://><br>
-💻 Portfolio: [포트폴리오 바로가기]<https://gowjdqkqh9.github.io/portfolio/#>
+📕 Notion: [노션 바로가기](https://)<br>
+💻 Portfolio: [포트폴리오 바로가기](https://gowjdqkqh9.github.io/portfolio/#)
 
 <br>
 <br>
