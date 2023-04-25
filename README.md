@@ -3,7 +3,7 @@
 
 📧 Email: akgowjd@gamil.com<br>
 📘 Notion: [노션 바로가기]<https://><br>
-💻 Portfolio: [포트폴리오 바로가기]<https://>
+💻 Portfolio: [포트폴리오 바로가기]<https://gowjdqkqh9.github.io/portfolio/#>
 
 <br>
 <br>
